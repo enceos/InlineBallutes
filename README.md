@@ -2,33 +2,35 @@
 
 Slow down your rocket in an upper atmosphere. Ballute = parachute + baloon = an alternative to a heatshield.
 
-# FAQ
+Forum thread: http://forum.kerbalspaceprogram.com/threads/134573-1-0-4-Inline-Ballutes-IB-%28v1-0%29-18-9-2015
 
-#  Is it even real? 
+## FAQ
+
+###  Is it even real? 
 
 
 Yes, you can read about this technology here [pdf] and here [pdf].
 
-#    How to use it? 
+### How to use it? 
 
 
 Get into upper thin atmosphere (i.e. Duna, Kerbin or Laythe). Deploy it. Initially deceleration is mariginal (depending on your vessel speed and mass) but it picks up quickly when you lower your altitude. You can repack it like a normal parachute if you plan multiple orbital decelerations
 
-#    Can I use it instead of parachute? 
+### Can I use it instead of parachute? 
 
 
 Rather not. Ballute drag is 3-4 times lower than parachute. And then it's much heavier due to used material and shape(Zylon instead of Nylon). However since it's inline version you can use it complementary to parachute. Ballute is also great for semi-powered landing when you just need to use engines just above over the surface for the final slowdown.
 
-#    It is better than heatshield? 
+### It is better than heatshield? 
 
 
 Depending on scenario it can be better than heatshield. Shields usually have small diameter thus requiring ship to be slim and tall. With ballute you slow down in higher atmosphere when there's not much heat, thus you can have more broad vessel design. Also ballute slows you down quite effectively in thin atmosphere (i.e. above surface of Duna) whereas heatshield doesn't have enough area to do this.
 However sometimes it's easier to use heatshield.
 
-#    How it works with stock aero? Can I use it with FAR? 
+### How it works with stock aero? Can I use it with FAR? 
 
 
-#Stock aerodynamics:
+###Stock aerodynamics:
 Aerocapture and aerobraking works as it should in my opinion. So all in all ballute can be used for both things.
 Duna scenario - it slows down a craft to about 80-90 m/s near the ground so it works better than heatshield and complementary to standard parachutes. It is able to slow down craft from speeds 2+ km/s using less dense atmo.
 Kerbin scenario - it is possible to reentry 1st stage or other stuff using inline ballute. Should work nicely when constructing reusable stages (SpaceY as well). Still requires powered landing however not much fuel is required.
@@ -36,7 +38,7 @@ Jool aerobraking - doesn't work or work very poorly at best (very narrow altitud
 
 You can modify sensitivity of parachutes by modifying skinMaxTemp.
 
-#FAR aerodynamics:
+###FAR aerodynamics:
 
 FAR simulates perfectly upper parts of an atmospheres unlike stock aerodynamics where heat kicks in even in the uppermost part of it. Thus FAR can simulate real aerobraking scenarios when ships incoming with high interplanetary speeds can decelerate effectively in upper parts of atmosphere (where there's almost no heating involved).
 
